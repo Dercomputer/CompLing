@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--lastchange: 16.04.2024 10:14:57-->
+<!--created with: GaitoBot Editor V0.12b--><category id="CATQ7M">
+	<pattern>Привет</pattern>
+	<template>Привет! Я бот библиотекарь, помогу в поисках необходимой литературы в нашем интернет магазине</template>
+</category><category id="DN9SCL">
+	<pattern>Какая погода сегодня?</pattern>
+	<template>Не могу знать</template>
+</category><category id="NEY3YS">
+	<pattern>Какие книги представлены в вашей библиотеке</pattern>
+	<template>В нашей библиотеке представлены собрания самых разных творцов: от философов древней Греции до современных писателей
+</template>
+</category><category id="HCPALG">
+	<pattern>Сколько стоит *</pattern>
+	<template>Стоимость товара рассчитывается от общего количества покупок</template>
+</category><category id="6P684G">
+	<pattern>Как дела?</pattern>
+	<template>В мою программу не заложен ответ на этот ответ</template>
+</category><category id="D36LJQ">
+	<pattern>ы</pattern>
+	<template>BABOSHIN DETECTED</template>
+</category><category id="WKPXYB">
+	<pattern>Где можно найти книги Достоевского?</pattern>
+	<template>По этой ссылке "ссылка удалена"</template>
+</category><category id="GH8JSK">
+	<pattern>Где узнать информацию по поставкам?</pattern>
+	<template>По этой ссылке можно узнать о всех ближайших поставках "ссылка удалена"</template>
+</category><category id="DCB4BM">
+	<pattern>Где можно посмотреть пункты выдачи заказов?</pattern>
+	<template>Пункты выдачи можете посмотреть на нашем сайте или по этой ссылке "ссылка удалена"</template>
+</category><category id="QSAGW4">
+	<pattern>Как оформить возврат?</pattern>
+	<template>Для оформления возврата напишите в тех поддержку "ссылка удалена"</template>
+</category><category id="DDQYEH">
+	<pattern>Есть ли скидочные карты?</pattern>
+	<template>В нашем магазине предусмотрены скидки для постоянных покупателей, подробнее про это можете прочитать по ссылке "ссылка удалена" </template>
+</category><category id="6FABEC">
+	<pattern>* Пока</pattern>
+	<template>До свидание, надеюсь вы ещё вернётесь к нам</template>
+</category>
+</aiml>
