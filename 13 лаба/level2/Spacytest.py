@@ -1,6 +1,6 @@
 import spacy
 
-with open("../level1/lemandstem/super_lemm.txt", encoding="utf-8") as d:
+with open("../level1/lemandstem/not_stop_words.txt", encoding="utf-8") as d:
     text = d.read()
 nlp = spacy.load("ru_core_news_sm")
 doc = nlp(text)
